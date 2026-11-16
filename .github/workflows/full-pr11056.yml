@@ -59,7 +59,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
         with:
           repository: Zombiehamser/super-productivity
-          ref: 281eec955d5010619ed203c5071894b095f0e3b1
+          ref: 267ee3c2122a0ebab3aede5398709d3993609b8d
           persist-credentials: false
 
       - name: Setup E2E Environment
@@ -100,7 +100,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
         with:
           repository: Zombiehamser/super-productivity
-          ref: 281eec955d5010619ed203c5071894b095f0e3b1
+          ref: 267ee3c2122a0ebab3aede5398709d3993609b8d
           persist-credentials: false
 
       - name: Setup E2E Environment
@@ -142,7 +142,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
         with:
           repository: Zombiehamser/super-productivity
-          ref: 281eec955d5010619ed203c5071894b095f0e3b1
+          ref: 267ee3c2122a0ebab3aede5398709d3993609b8d
           persist-credentials: false
 
       - name: Setup E2E Environment
@@ -218,7 +218,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
         with:
           repository: Zombiehamser/super-productivity
-          ref: 281eec955d5010619ed203c5071894b095f0e3b1
+          ref: 267ee3c2122a0ebab3aede5398709d3993609b8d
           persist-credentials: false
 
       - name: Setup E2E Environment
@@ -300,7 +300,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
         with:
           repository: Zombiehamser/super-productivity
-          ref: 281eec955d5010619ed203c5071894b095f0e3b1
+          ref: 267ee3c2122a0ebab3aede5398709d3993609b8d
           persist-credentials: false
       - name: Reconfigure git to use HTTP authentication
         run: >
@@ -331,7 +331,7 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v6
         with:
           repository: Zombiehamser/super-productivity
-          ref: 281eec955d5010619ed203c5071894b095f0e3b1
+          ref: 267ee3c2122a0ebab3aede5398709d3993609b8d
           persist-credentials: false
 
       - name: Setup E2E Environment
